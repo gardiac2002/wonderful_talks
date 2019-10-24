@@ -11,6 +11,18 @@ https://www.youtube.com/watch?v=lO1z-7cuRYI
 - Bringing WebAssembly outside the web with WASI by Lin Clark
 https://www.youtube.com/watch?v=fh9WXPu0hw8
 
+- "A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js" by Ashley Williams
+https://www.youtube.com/watch?v=aGJTXdXQN2o
+
+- GOTO 2018 • Rust Async Programming in 2018 • Katharina Fey
+https://www.youtube.com/watch?v=j0SIcN-Y-LA
+
+- Matthias Endler - Idiomatic Rust
+https://www.youtube.com/watch?v=P2mooqNMxMs
+
+- How Rust Views Tradeoffs
+https://www.youtube.com/watch?v=2ajos-0OWts
+
 
 # JS
 

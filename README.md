@@ -37,3 +37,6 @@ https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 
 - Rustlings
 https://github.com/rust-lang/rustlings
+
+- ripgrep
+https://blog.burntsushi.net/ripgrep/

@@ -10,3 +10,9 @@ https://www.youtube.com/watch?v=lO1z-7cuRYI
 
 - Bringing WebAssembly outside the web with WASI by Lin Clark
 https://www.youtube.com/watch?v=fh9WXPu0hw8
+
+
+# JS
+
+- The birth and death of Javascript
+https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript

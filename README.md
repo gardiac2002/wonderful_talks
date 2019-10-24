@@ -1,6 +1,6 @@
 # wonderful_talks
 
-# Rust
+## Rust
 
 - Rust, WebAssembly, and the future of Serverless by Steve Klabnik
 https://www.youtube.com/watch?v=CMB6AlE1QuI
@@ -24,7 +24,16 @@ https://www.youtube.com/watch?v=P2mooqNMxMs
 https://www.youtube.com/watch?v=2ajos-0OWts
 
 
-# JS
+## JS
 
 - The birth and death of Javascript
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+
+
+
+# Tutorials
+
+## Rust
+
+- Rustlings
+https://github.com/rust-lang/rustlings

@@ -29,6 +29,8 @@ https://www.youtube.com/watch?v=lLzFJenzBng
 - Rust in the Browser for JavaScripters: New Frontiers, New Possibilities
 https://www.youtube.com/watch?v=mmPb-oaIWXw
 
+- GOTO 2019 • Rust 2018: Access All Areas • Florian Gilcher
+https://www.youtube.com/watch?v=sCSfyQYDImM
 
 
 ## JS

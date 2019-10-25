@@ -23,6 +23,13 @@ https://www.youtube.com/watch?v=P2mooqNMxMs
 - How Rust Views Tradeoffs
 https://www.youtube.com/watch?v=2ajos-0OWts
 
+- RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak
+https://www.youtube.com/watch?v=lLzFJenzBng
+
+- Rust in the Browser for JavaScripters: New Frontiers, New Possibilities
+https://www.youtube.com/watch?v=mmPb-oaIWXw
+
+
 
 ## JS
 

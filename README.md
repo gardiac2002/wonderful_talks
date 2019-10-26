@@ -1,5 +1,15 @@
 # wonderful_talks
 
+# Learn
+
+- Rust Programming Language Book
+
+- SICP
+
+- Real World Haskell
+
+- Concurrent Haskell
+
 ## Rust
 
 - Rust, WebAssembly, and the future of Serverless by Steve Klabnik

@@ -1,4 +1,3 @@
-# wonderful_talks
 
 # Learn
 
@@ -9,6 +8,14 @@
 - Real World Haskell
 
 - Concurrent Haskell
+
+# wonderful_talks
+
+## Functional programming
+
+- C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals 
+https://www.youtube.com/watch?v=UIUlFQH4Cvo&list=PLoJC20gNfC2gpI7Dl6fg8uj1a-wfnWTH8
+
 
 ## Rust
 

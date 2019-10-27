@@ -9,7 +9,14 @@
 
 - Concurrent Haskell
 
-# wonderful_talks
+# Wonderful Talks
+
+## Machine Learning
+
+GOTO 2018 • Machine Learning: Alchemy for the Modern Computer Scientist • Erik Meijer
+- https://www.youtube.com/watch?v=Rs0uRQJdIcg
+
+
 
 ## Functional programming
 

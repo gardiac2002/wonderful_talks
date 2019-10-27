@@ -13,9 +13,11 @@
 
 ## Machine Learning
 
-GOTO 2018 • Machine Learning: Alchemy for the Modern Computer Scientist • Erik Meijer
-- https://www.youtube.com/watch?v=Rs0uRQJdIcg
+- GOTO 2018 • Machine Learning: Alchemy for the Modern Computer Scientist • Erik Meijer
+https://www.youtube.com/watch?v=Rs0uRQJdIcg
 
+- From Rails to Elm and Haskell - Richard Feldman
+https://www.youtube.com/watch?v=5CYeZ2kEiOI
 
 
 ## Functional programming

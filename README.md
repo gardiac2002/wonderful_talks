@@ -58,6 +58,11 @@ https://www.youtube.com/watch?v=mmPb-oaIWXw
 - GOTO 2019 • Rust 2018: Access All Areas • Florian Gilcher
 https://www.youtube.com/watch?v=sCSfyQYDImM
 
+## Python
+
+- Almar Klein - Let’s embrace WebAssembly!
+https://www.youtube.com/watch?v=u2kKxmb9BWs
+
 
 ## JS
 

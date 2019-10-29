@@ -16,9 +16,16 @@
 - GOTO 2018 • Machine Learning: Alchemy for the Modern Computer Scientist • Erik Meijer
 https://www.youtube.com/watch?v=Rs0uRQJdIcg
 
-- From Rails to Elm and Haskell - Richard Feldman
+## Elm & Haskell
+
+- **OK** From Rails to Elm and Haskell - Richard Feldman
 https://www.youtube.com/watch?v=5CYeZ2kEiOI
 
+- Elm Europe 2017 - Evan Czaplicki - The life of a file
+https://www.youtube.com/watch?v=XpDsk374LDE
+
+- Elm in Production: Surprises & Pain Points
+https://www.youtube.com/watch?v=LZj_1qVURL0
 
 ## Functional programming
 
@@ -49,7 +56,7 @@ https://www.youtube.com/watch?v=P2mooqNMxMs
 - How Rust Views Tradeoffs
 https://www.youtube.com/watch?v=2ajos-0OWts
 
-- RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak
+- **OK** RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak
 https://www.youtube.com/watch?v=lLzFJenzBng
 
 - Rust in the Browser for JavaScripters: New Frontiers, New Possibilities

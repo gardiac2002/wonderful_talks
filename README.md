@@ -74,6 +74,12 @@ https://www.youtube.com/watch?v=sCSfyQYDImM
 https://www.youtube.com/watch?v=u2kKxmb9BWs
 
 
+## Math
+
+- UCR Applied Category Theory Seminar: The Pi Calculus
+https://www.youtube.com/watch?v=NTJBMbTIJis
+
+
 ## JS
 
 - The birth and death of Javascript

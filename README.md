@@ -21,6 +21,9 @@ https://www.youtube.com/watch?v=Rs0uRQJdIcg
 - **OK** From Rails to Elm and Haskell - Richard Feldman
 https://www.youtube.com/watch?v=5CYeZ2kEiOI
 
+- Simon Peyton-Jones: Escape from the ivory tower: the Haskell journey
+https://www.youtube.com/watch?v=re96UgMk6GQ
+
 - Elm Europe 2017 - Evan Czaplicki - The life of a file
 https://www.youtube.com/watch?v=XpDsk374LDE
 

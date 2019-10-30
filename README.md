@@ -79,6 +79,9 @@ https://www.youtube.com/watch?v=u2kKxmb9BWs
 - UCR Applied Category Theory Seminar: The Pi Calculus
 https://www.youtube.com/watch?v=NTJBMbTIJis
 
+- An Experiment with π-calculus
+https://scienceblogs.com/goodmath/2007/03/21/an-experiment-with-calculus-an-1
+
 
 ## JS
 

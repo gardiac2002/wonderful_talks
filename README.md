@@ -30,6 +30,14 @@ https://www.youtube.com/watch?v=XpDsk374LDE
 - Elm in Production: Surprises & Pain Points
 https://www.youtube.com/watch?v=LZj_1qVURL0
 
+## Algorithms
+
+- MIT 6.006 Introduction to Algorithms, Fall 2011
+https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+
+- MIT 6.851 Advanced Data Structures, Spring 2012
+https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
+
 ## Functional programming
 
 - C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals 

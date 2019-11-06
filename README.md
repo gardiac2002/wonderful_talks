@@ -30,6 +30,30 @@ https://www.youtube.com/watch?v=XpDsk374LDE
 - Elm in Production: Surprises & Pain Points
 https://www.youtube.com/watch?v=LZj_1qVURL0
 
+- YOW! 2013 Philip Wadler - The First Monad Tutorial
+https://www.youtube.com/watch?v=yjmKMhJOJos
+
+- "The Hard Parts of Open Source" by Evan Czaplicki
+https://www.youtube.com/watch?v=o_4EX4dPppA
+
+- "Dependent Types in Haskell" by Stephanie Weirich
+https://www.youtube.com/watch?v=wNa3MMbhwS4
+
+- "Idris: Practical Dependent Types with Practical Examples" by Brian McKenna
+https://www.youtube.com/watch?v=4i7KrG1Afbk
+
+- Richard Feldman - Exploring elm-spa-example
+https://www.youtube.com/watch?v=RN2_NchjrJQ
+
+- 6 Months of Elm in Production by Richard Feldman
+https://www.youtube.com/watch?v=R2FtMbb-nLs
+
+- Tomasz Kowal - Elixir and Elm - the perfect couple (Lambda Days 2016)
+https://www.youtube.com/watch?v=mIwD27qqr5U
+
+- F(by) 2017. Michael Snoyman - What Makes Haskell Unique.
+https://www.youtube.com/watch?v=DebDaiYev2M
+
 ## Algorithms
 
 - MIT 6.006 Introduction to Algorithms, Fall 2011

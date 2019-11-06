@@ -54,6 +54,32 @@ https://www.youtube.com/watch?v=mIwD27qqr5U
 - F(by) 2017. Michael Snoyman - What Makes Haskell Unique.
 https://www.youtube.com/watch?v=DebDaiYev2M
 
+- Into the Core - Squeezing Haskell into Nine Constructors by Simon Peyton Jones
+https://www.youtube.com/watch?v=uR_VzYxvbxg
+
+- Simon Peyton Jones how GHC type inference engine actually works
+https://www.youtube.com/watch?v=x3evzO8O9e8
+
+- Simon Peyton Jones - A History of Haskell: being lazy with class
+https://www.youtube.com/watch?v=06x8Wf2r2Mc
+
+- Simon Peyton Jones - Linear Haskell: practical linearity in a higher-order polymorphic language
+https://www.youtube.com/watch?v=t0mhvd3-60Y
+
+- Functional Programming Languages and the Pursuit of Laziness with Dr. Simon Peyton Jones
+https://www.youtube.com/watch?v=SqWDAo1Jnyc
+
+- Adventure with Types in Haskell - Simon Peyton Jones (Lecture 1)
+https://www.youtube.com/watch?v=6COvD8oynmI
+
+- Adventure with Types in Haskell - Simon Peyton Jones (Lecture 2)
+https://www.youtube.com/watch?v=brE_dyedGm0
+
+- YOW! 2011 Simon Peyton Jones - The Future is Parallel, and the Future of Parallel is Declarative
+https://www.youtube.com/watch?v=tC94Mkg-oJU
+
+
+
 ## Algorithms
 
 - MIT 6.006 Introduction to Algorithms, Fall 2011

@@ -78,7 +78,8 @@ https://www.youtube.com/watch?v=brE_dyedGm0
 - YOW! 2011 Simon Peyton Jones - The Future is Parallel, and the Future of Parallel is Declarative
 https://www.youtube.com/watch?v=tC94Mkg-oJU
 
-
+- Why Functional Programming Matters by John Hughes at Functional Conf 2016
+https://www.youtube.com/watch?v=XrNdvWqxBvA
 
 ## Algorithms
 

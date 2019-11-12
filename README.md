@@ -81,6 +81,9 @@ https://www.youtube.com/watch?v=tC94Mkg-oJU
 - Why Functional Programming Matters by John Hughes at Functional Conf 2016
 https://www.youtube.com/watch?v=XrNdvWqxBvA
 
+- Functional programming design patterns by Scott Wlaschin
+https://www.youtube.com/watch?v=E8I19uA-wGY
+
 ## Algorithms
 
 - MIT 6.006 Introduction to Algorithms, Fall 2011
